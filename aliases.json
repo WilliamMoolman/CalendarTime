@@ -1,0 +1,26 @@
+{
+    "IADS": [
+        "IADS",
+        "Intro to Algorithms & Data Structures"
+    ],
+    "EM2b": [
+        "EM2b",
+        "Engineering Mathematics 2B"
+    ],
+    "SESL2": [
+        "SESL",
+        "Software and Embedded Systems Laboratory 2"
+    ],
+    "DSD2": [
+        "DSD",
+        "Digital System Design 2"
+    ],
+    "SNDA2": [
+        "SNDA",
+        "Sensor Networks and Data Analysis 2"
+    ],
+    "PDE2": [
+        "PDE",
+        "Professional Development for Engineers 2"
+    ]
+}
