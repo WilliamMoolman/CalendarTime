@@ -68,5 +68,5 @@ class Events():
             
             subject = self.get_subject(event)
             week = self.get_week(start_time)
-            processed_events.append([week, category, subject, duration])
+            processed_events.append([week, category, subject, start_time, end_time, duration])
         return np.array(processed_events)
